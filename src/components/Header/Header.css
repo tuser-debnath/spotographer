@@ -1,0 +1,16 @@
+.header-area .navbar-nav a {
+  margin-left: 15px;
+  color: #f5f5f5;
+}
+
+.header-area .navbar-nav a:last-child {
+  background-color: #7952b3;
+  border: 1px solid #7952b3;
+  padding: 8px 40px;
+  border-radius: 5px;
+  text-align: center;
+}
+.header-area .navbar-nav a:last-child:hover {
+  background-color: transparent;
+  color: #7952b3;
+}
